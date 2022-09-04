@@ -134,7 +134,6 @@ Your assignment comprises the following:
  To help you write using Markdown, the following references may be helpful to you.
   + [Markdown Tidbits](https://www.youtube.com/watch?v=s-oSuHFVnR4)
   + [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-<<<<<<< HEAD
 
 ## Assessment
 
@@ -145,5 +144,4 @@ The grade that a student receives on this assignment will have the following com
 - **Mastery of Technical Writing [up to 50%]:**: Students will also receive a checkmark grade when the responses to the writing questions presented in the `reflection.md` reveal a proficiency of both writing skills and technical knowledge. To receive a checkmark grade, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing conceptually and technically accurate answers.
 
 - **Mastery of Technical Knowledge and Skills [up to 25%]**: Students will receive a portion of their assignment grade when their program implementation reveals that they have mastered all of the technical knowledge and skills developed during the completion of this assignment. As a part of this grade, the instructor will assess aspects of the programming including, but not limited to, the completeness and the correctness of the program and the use of effective source code comments.
-=======
->>>>>>> 102c7bb010c3300f093a977a475e264c446aab89
+
