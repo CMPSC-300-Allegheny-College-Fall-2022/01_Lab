@@ -6,6 +6,7 @@
 
 In this lab assignment, you are to add your responses to the questions below. Your reflection should pass all GatorGrader checks and contain clear and meaningful language. Please use Markdown language to format your reflection piece.
 
+
 Please write below this line to address the above-mentioned points. Replace the word, `TO-DO` with your response.
 
 ### First Tool
